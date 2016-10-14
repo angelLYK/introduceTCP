@@ -1,0 +1,8 @@
+intrdule tcp/ip
+
+src/connect: tcp connect and disconnect
+src/crash: tcp peer crash
+src/event: tcp event driven
+src/multiplexIO: I/O multiplex 
+src/variableLentth: tcp transport variable lenth packet.
+src/lib: lib
